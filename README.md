@@ -1,4 +1,4 @@
-# Hi, I'm Harshali 👋
+# Hi, I'm Harshali 
 
 ```python
 class Harshali:
@@ -12,7 +12,7 @@ class Harshali:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -30,18 +30,18 @@ class Harshali:
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🎯 **PrepEdge** — Interview Prep Platform | `Django` `SQLite` `Razorpay` | MCQ engine · 100+ questions · performance tracking |
-| 📚 **Readio** — Online Book Store | `Django` `DRF` `Razorpay` | E-commerce · cart & orders · role-based access |
-| 🏠 **Homedo** — Household Services Booking | `PHP` `MySQL` `Bootstrap` | 3-role dashboards · 15+ services |
-| 📋 **Complaint Management System** | `Django` `SQLite` | User/admin portal · full CRUD |
+|  **PrepEdge** — Interview Prep Platform | `Django` `SQLite` `Razorpay` | MCQ engine · 100+ questions · performance tracking |
+|  **Readio** — Online Book Store | `Django` `DRF` `Razorpay` | E-commerce · cart & orders · role-based access |
+|  **Homedo** — Household Services Booking | `Python` `Django` `MySQL` `Bootstrap` | 3-role dashboards · 15+ services |
+|  **Complaint Management System** | `Django` `SQLite` | User/admin portal · full CRUD |
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 ```
 [✓] Python Developer          — UVTechnocrats (2026)
@@ -50,7 +50,7 @@ class Harshali:
 
 ---
 
-## 📡 Connect
+##  Connect
 
 <div align="center">
 
