@@ -28,13 +28,14 @@ Python Developer • Django Developer • MCA Student
 class Harshali:
     name = "Harshali Abhay Kulkarni"
     role = "Python / Django Developer"
-    education = "MCA @ Sinhgad Institute of Management"
+    education = "Master of Computer Applications (MCA)"
+    institute = "Sinhgad Institute of Management, Pune"
     cgpa = 8.76
     location = "Pune, Maharashtra, India"
-    open_to = "Python / Django Developer Roles"
+    seeking = "Entry-Level Python / Django Opportunities"
 ```
 
-I am an MCA student with a strong interest in backend development and web application design. My experience includes building full-stack applications using Django, REST APIs, MySQL, and modern web technologies.
+I am an MCA student with a strong foundation in Python, Django, REST APIs, MySQL, and full-stack web development. I enjoy building scalable web applications, solving real-world problems through technology, and continuously improving my backend development skills through practical projects and hands-on learning.
 
 ---
 
@@ -44,74 +45,85 @@ I am an MCA student with a strong interest in backend development and web applic
 <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,html,css,js,php,git,github,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-Development-FF6F00?style=flat-square" />
+</p>
+
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshali-14&show_icons=true&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshali-14&layout=compact&hide_border=true" />
+</p>
+
+---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<details open>
+<summary><strong>PrepEdge — Interview Preparation Platform</strong></summary>
 
-### PrepEdge
-
-Interview Preparation Platform
+<br>
 
 **Technology:** Django, SQLite, Razorpay
 
-- MCQ Assessment Engine
-- Performance Tracking
-- User Dashboard
-- Payment Integration
+- Developed an interview preparation platform with MCQ-based assessments.
+- Implemented performance tracking and analytics dashboard.
+- Integrated Razorpay payment gateway.
+- Created a responsive and user-friendly interface.
+- Enabled users to monitor learning progress effectively.
 
-</td>
+</details>
 
-<td width="50%">
+<details>
+<summary><strong>Readio — Online Book Store</strong></summary>
 
-### Readio
+<br>
 
-Online Book Store
+**Technology:** Django, Django REST Framework, SQLite
 
-**Technology:** Django, DRF
+- Built a complete e-commerce bookstore application.
+- Implemented user authentication and authorization.
+- Developed shopping cart and order management modules.
+- Created REST APIs for scalable backend functionality.
+- Designed role-based access control for users and administrators.
 
-- Book Catalog
-- Shopping Cart
-- Order Management
-- REST APIs
+</details>
 
-</td>
-</tr>
+<details>
+<summary><strong>Homedo — Household Services Booking Platform</strong></summary>
 
-<tr>
-<td width="50%">
+<br>
 
-### Homedo
+**Technology:** Django, MySQL, Bootstrap
 
-Household Services Platform
+- Developed a household services booking system.
+- Implemented Customer, Service Provider, and Admin dashboards.
+- Enabled service booking and management workflows.
+- Managed service requests and booking history.
+- Supported multiple service categories and provider management.
 
-**Technology:** Django, MySQL
+</details>
 
-- Customer Dashboard
-- Service Provider Dashboard
-- Admin Management
-- Booking System
+<details>
+<summary><strong>Complaint Management System</strong></summary>
 
-</td>
+<br>
 
-<td width="50%">
+**Technology:** Django, SQLite
 
-### Complaint Management System
+- Designed a complaint registration and tracking platform.
+- Implemented complete CRUD functionality.
+- Developed dedicated user and admin portals.
+- Enabled complaint status monitoring and updates.
+- Improved complaint management workflow efficiency.
 
-**Technology:** Django
-
-- Complaint Registration
-- CRUD Operations
-- Status Tracking
-- Admin Portal
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -127,30 +139,41 @@ Household Services Platform
 ## Currently Learning
 
 ```text
-• Django REST Framework
-• Advanced Backend Development
-• Data Structures & Algorithms
-• Cloud Computing
+Django REST Framework
+Advanced Backend Development
+Data Structures & Algorithms
+Cloud Computing
+Software Design Principles
 ```
 
 ---
 
-## Contact
+## Professional Highlights
+
+- MCA Student with CGPA 8.76
+- Developed 4+ Full-Stack Web Applications
+- Experience with Django, Django REST Framework, MySQL, and REST APIs
+- Integrated Payment Gateway using Razorpay
+- Strong Foundation in Backend Development
+- Familiar with Software Development Life Cycle (SDLC)
+- Actively Seeking Entry-Level Python and Django Developer Opportunities
+
+---
+
+## Connect
 
 <p align="center">
+  <a href="mailto:harshaliak14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshaliak14%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="mailto:harshaliak14@gmail.com">
-<img src="https://img.shields.io/badge/Email-harshaliak14@gmail.com-red?style=flat-square&logo=gmail" />
-</a>
+  <a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshali%20Kulkarni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
-<img src="https://img.shields.io/badge/LinkedIn-Harshali%20Kulkarni-blue?style=flat-square&logo=linkedin" />
-</a>
-
-<a href="https://github.com/Harshali-14">
-<img src="https://img.shields.io/badge/GitHub-Harshali--14-black?style=flat-square&logo=github" />
-</a>
-
+  <a href="https://github.com/Harshali-14">
+    <img src="https://img.shields.io/badge/GitHub-Harshali--14-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
