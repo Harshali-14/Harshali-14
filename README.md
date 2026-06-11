@@ -5,20 +5,22 @@
 <h1 align="center">Harshali Abhay Kulkarni</h1>
 
 <p align="center">
-Python Developer • Django Developer • MCA Student
+Python Developer • Django Developer • Backend Engineer • MCA Student
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshali-14&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshali-14&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:harshaliak14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Harshali-14">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -27,39 +29,32 @@ Python Developer • Django Developer • MCA Student
 ## About Me
 
 ```python
-class Harshali:
+class Developer:
     name = "Harshali Abhay Kulkarni"
-    role = "Python / Django Developer"
-    education = "Master of Computer Applications (MCA)"
+    role = "Python & Django Developer"
+    education = "MCA - Master of Computer Applications"
     institute = "Sinhgad Institute of Management, Pune"
     cgpa = 8.76
     location = "Pune, Maharashtra, India"
-    seeking = "Entry-Level Python / Django Opportunities"
+    goal = "Seeking Entry-Level Backend Developer Opportunities"
 ```
 
-I am an MCA student with a strong foundation in Python, Django, REST APIs, MySQL, and full-stack web development. I enjoy building scalable web applications, solving real-world problems through technology, and continuously improving my backend development skills through practical projects and hands-on learning.
+I am a passionate **backend developer** specializing in **Python and Django**, focused on building scalable, secure, and efficient web applications. I enjoy solving real-world problems and continuously improving my backend development skills through hands-on projects.
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,html,css,js,php,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-Development-FF6F00?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,html,css,js,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshali-14&show_icons=true&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshali-14&show_icons=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshali-14&layout=compact&hide_border=true" />
 </p>
 
@@ -67,121 +62,100 @@ I am an MCA student with a strong foundation in Python, Django, REST APIs, MySQL
 
 ## Featured Projects
 
-<details open>
-<summary><strong>PrepEdge — Interview Preparation Platform</strong></summary>
+### ResolveX – Complaint Management System
 
-<br>
+* Django-based complaint management system
+* Role-based authentication (Admin & User)
+* Complaint lifecycle management (Create, Update, Delete, Track)
+* Real-time status tracking system
+* Secure and responsive UI design
+* Deployed on cloud hosting platform
 
-**Technology:** Django, SQLite, Razorpay
+**Live Demo:** https://resolvex-x1ka.onrender.com/
 
-- Developed an interview preparation platform with MCQ-based assessments.
-- Implemented performance tracking and analytics dashboard.
-- Integrated Razorpay payment gateway.
-- Created a responsive and user-friendly interface.
-- Enabled users to monitor learning progress effectively.
+---
 
-</details>
+### PrepEdge – Interview Preparation Platform
 
-<details>
-<summary><strong>Readio — Online Book Store</strong></summary>
+* MCQ-based learning and assessment system
+* Performance tracking dashboard
+* Razorpay payment gateway integration
+* Progress analytics system
+* Responsive UI for students
 
-<br>
+---
 
-**Technology:** Django, Django REST Framework, SQLite
+### Readio – Online Book Store
 
-- Built a complete e-commerce bookstore application.
-- Implemented user authentication and authorization.
-- Developed shopping cart and order management modules.
-- Created REST APIs for scalable backend functionality.
-- Designed role-based access control for users and administrators.
+* Full-stack e-commerce bookstore platform
+* Django REST Framework APIs
+* Cart, checkout, and order management system
+* User authentication and role-based access
+* Admin dashboard for inventory control
 
-</details>
+---
 
-<details>
-<summary><strong>Homedo — Household Services Booking Platform</strong></summary>
+### Homedo – Household Services Platform
 
-<br>
-
-**Technology:** Django, MySQL, Bootstrap
-
-- Developed a household services booking system.
-- Implemented Customer, Service Provider, and Admin dashboards.
-- Enabled service booking and management workflows.
-- Managed service requests and booking history.
-- Supported multiple service categories and provider management.
-
-</details>
-
-<details>
-<summary><strong>Complaint Management System</strong></summary>
-
-<br>
-
-**Technology:** Django, SQLite
-
-- Designed a complaint registration and tracking platform.
-- Implemented complete CRUD functionality.
-- Developed dedicated user and admin portals.
-- Enabled complaint status monitoring and updates.
-- Improved complaint management workflow efficiency.
-
-</details>
+* Service booking and management system
+* Multi-role dashboards (User, Provider, Admin)
+* Service request workflow management
+* Booking history and tracking system
+* Category-based service handling
 
 ---
 
 ## Certifications
 
-| Certification | Organization | Year |
-|--------------|-------------|------|
-| Python Developer | UVTechnocrats | 2026 |
-| Python Selenium Workshop | SoftGrid Info Pvt. Ltd., Pune | 2024 |
+| Certification            | Provider       | Year |
+| ------------------------ | -------------- | ---- |
+| Python Developer         | UV Technocrats | 2026 |
+| Python Selenium Workshop | SoftGrid Info  | 2024 |
 
 ---
 
 ## Currently Learning
 
-```text
-Django REST Framework
-Advanced Backend Development
-Data Structures & Algorithms
-Cloud Computing
-Software Design Principles
-```
+* Django REST Framework (Advanced APIs)
+* System Design Fundamentals
+* Data Structures & Algorithms
+* Cloud Deployment (Render, AWS)
+* Microservices Architecture
 
 ---
 
 ## Professional Highlights
 
-- MCA Student with CGPA 8.76
-- Developed 4+ Full-Stack Web Applications
-- Experience with Django, Django REST Framework, MySQL, and REST APIs
-- Integrated Payment Gateway using Razorpay
-- Strong Foundation in Backend Development
-- Familiar with Software Development Life Cycle (SDLC)
-- Actively Seeking Entry-Level Python and Django Developer Opportunities
+* MCA Graduate (CGPA: 8.76)
+* 4+ Full Stack Django Projects
+* Strong Backend Development Skills
+* REST API Development Experience
+* Payment Gateway Integration (Razorpay)
+* Cloud Deployment Experience
+* Focused on Backend Engineering Career
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
   <a href="mailto:harshaliak14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harshaliak14%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-harshaliak14%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 
   <a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshali%20Kulkarni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Harshali%20Kulkarni-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="https://github.com/Harshali-14">
-    <img src="https://img.shields.io/badge/GitHub-Harshali--14-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Harshali--14-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-Building scalable web applications with Python and Django.
+Building scalable backend systems with Python and Django.
 </p>
 
 <p align="center">
