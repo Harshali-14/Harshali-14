@@ -7,7 +7,9 @@
 <p align="center">
 Python Developer • Django Developer • MCA Student
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshali-14&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
