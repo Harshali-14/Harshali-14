@@ -1,215 +1,187 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Harshali%20Kulkarni&fontSize=48&fontAlignY=40&animation=fadeIn" />
-</p>
+<div align="center">
 
-<h1 align="center">Harshali Abhay Kulkarni</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:2C5364,100:00C9A7&text=Harshali%20Kulkarni&fontSize=46&fontAlignY=38&fontColor=ffffff&desc=Python%20%7C%20Django%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Web+Applications" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00C9A7&center=true&vCenter=true&width=750&lines=Python+Developer;Django+%26+REST+API+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" />
 
-<p align="center">
-Python Developer • Django Developer • Backend Engineer • MCA Student
-</p>
+<br/>
 
-<p align="center">
-Passionate about building scalable, secure, and efficient web applications using Python and Django.
-</p>
+<a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:harshaliak14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Harshali-14">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Harshali-14&label=Profile%20Views&color=00C9A7&style=for-the-badge" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshali-14&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:harshaliak14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Harshali-14">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00C9A7" width="100%"/>
 
-## Developer Profile
+## About
 
 ```python
 class Developer:
-    name = "Harshali Abhay Kulkarni"
-    role = "Python & Django Developer"
-    education = "Master of Computer Applications (MCA)"
-    institute = "Sinhgad Institute of Management, Pune"
-    cgpa = 8.76
-    location = "Pune, Maharashtra, India"
+    def __init__(self):
+        self.name = "Harshali Abhay Kulkarni"
+        self.role = "Python & Django Developer"
+        self.education = "MCA, Sinhgad Institute of Management, Pune"
+        self.cgpa = 8.76
+        self.location = "Pune, Maharashtra, India"
+        self.skills = ["Python", "Django", "REST APIs", "MySQL", "SQLite"]
+        self.currently_seeking = "Entry-Level Backend Developer Roles"
 
-    skills = [
-        "Python",
-        "Django",
-        "REST APIs",
-        "MySQL",
-        "Backend Development"
-    ]
+    def builds(self):
+        return "Scalable, secure, well-structured web applications"
 
-    goal = "Seeking Entry-Level Backend Developer Opportunities"
+me = Developer()
+print(me.builds())
 ```
 
-I am a passionate backend developer specializing in Python and Django, focused on building scalable, secure, and efficient web applications. I enjoy solving real-world problems and continuously improving my development skills through hands-on projects and practical learning.
+I'm a backend developer specializing in **Python and Django**, focused on turning ideas into clean, scalable web applications. I enjoy solving real-world problems through hands-on projects and continuously refining my craft.
 
----
+<br/>
 
 ## Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,html,css,js,bootstrap,git,github,vscode" />
-</p>
+<div align="center">
 
-| Category | Technologies |
-|-----------|-------------|
-| Languages | Python, JavaScript, SQL |
-| Frameworks | Django, Django REST Framework |
-| Databases | MySQL, SQLite |
-| Frontend | HTML, CSS, Bootstrap |
-| Tools | Git, GitHub, VS Code |
-| Deployment | Render |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00C9A7" width="100%"/>
 
 ## Featured Projects
 
-### Readio – Online Book Store
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-A full-stack e-commerce bookstore platform built using Django and Django REST Framework.
+### Readio
+**Online Book Store**
 
-**Key Features**
+Authentication, shopping cart, order management and a full inventory dashboard built with REST APIs.
 
-- User Authentication and Authorization
-- Shopping Cart and Checkout System
-- Order Management
-- REST API Development
-- Inventory Management Dashboard
-- Database-Driven Architecture
+`Django` `DRF` `SQLite`
 
-**Tech Stack:** Python, Django, Django REST Framework, SQLite, HTML, CSS, JavaScript
+</td>
+<td width="50%" valign="top">
 
----
+### ResolveX
+**Complaint Management System**
 
-### ResolveX – Complaint Management System
+Complaint tracking with role-based access, an admin dashboard, and live cloud deployment.
 
-A web-based complaint management platform designed to streamline complaint registration and tracking.
+`Django` `SQLite` `Bootstrap`
 
-**Key Features**
+<a href="https://resolvex-x1ka.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C9A7?style=flat-square&logo=render&logoColor=white"/></a>
 
-- Role-Based Authentication (Admin & User)
-- Complaint Registration and Tracking
-- Complaint Lifecycle Management
-- Administrative Dashboard
-- Responsive User Interface
-- Cloud Deployment
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** Python, Django, SQLite, Bootstrap, HTML, CSS
+### Homedo
+**Household Services Platform**
 
-**Live Demo:**  
-https://resolvex-x1ka.onrender.com/
+Multi-role booking platform connecting customers with service providers, complete with dashboards.
 
----
+`Django` `MySQL`
 
-### Homedo – Household Services Platform
+</td>
+<td width="50%" valign="top">
 
-A service booking platform connecting customers with service providers.
+### PrepEdge
+**Interview Preparation Platform**
 
-**Key Features**
+MCQ assessments with performance analytics, progress tracking and Razorpay payment integration.
 
-- Service Booking and Scheduling
-- Multi-Role Dashboards
-- Service Request Management
-- Booking History and Tracking
-- Category-Based Service Handling
-- Provider Management System
+`Django` `SQLite` `Razorpay`
 
-**Tech Stack:** Python, Django, MySQL, HTML, CSS, Bootstrap
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### PrepEdge – Interview Preparation Platform
-
-An assessment-based learning platform for students preparing for interviews and aptitude tests.
-
-**Key Features**
-
-- MCQ-Based Assessment System
-- Student Performance Tracking
-- Progress Analytics Dashboard
-- Razorpay Payment Integration
-- Responsive User Interface
-
-**Tech Stack:** Python, Django, SQLite, HTML, CSS, JavaScript
-
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00C9A7" width="100%"/>
 
 ## Certifications
 
 | Certification | Provider | Year |
-|--------------|----------|------|
+|---|---|---|
 | Python Developer | UV Technocrats | 2026 |
 | Python Selenium Workshop | SoftGrid Info | 2024 |
 
----
+<br/>
 
-## Current Focus
+## Currently Exploring
 
-- Advanced Django REST Framework
-- System Design Fundamentals
-- Data Structures & Algorithms
-- AWS Cloud Services
-- Backend Architecture
-- Database Optimization
+`Django REST Framework` · `AWS Cloud` · `System Design` · `Data Structures & Algorithms`
 
----
+<br/>
 
-## Professional Highlights
+## Highlights
 
-- MCA Graduate with CGPA 8.76
-- Developed 4+ Full-Stack Django Applications
-- Experience in REST API Development
-- Payment Gateway Integration (Razorpay)
+- MCA Graduate — CGPA **8.76**
+- 4+ Full-Stack Django Projects
+- REST API Development
+- Razorpay Payment Integration
 - Cloud Deployment Experience
-- Strong Understanding of Authentication & Authorization
-- Experience with MySQL and SQLite Databases
-- Passionate About Backend Engineering
+- MySQL & SQLite Database Design
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00C9A7" width="100%"/>
 
 ## Career Objective
 
-Seeking opportunities in Python Development, Django Development, and Backend Engineering where I can contribute to real-world software projects while continuously expanding my technical expertise in scalable web application development.
+Seeking opportunities in **Python Development**, **Django Development**, and **Backend Engineering** to build scalable software solutions and grow as a software professional.
 
----
+<br/>
 
-## Connect With Me
+## Connect
 
-<p align="center">
-  <a href="mailto:harshaliak14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harshaliak14%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
+<div align="center">
 
-  <a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshali%20Kulkarni-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="mailto:harshaliak14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-harshaliak14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
+  <img src="https://img.shields.io/badge/LinkedIn-Harshali%20Kulkarni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Harshali-14">
+  <img src="https://img.shields.io/badge/GitHub-Harshali--14-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <a href="https://github.com/Harshali-14">
-    <img src="https://img.shields.io/badge/GitHub-Harshali--14-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  Learn • Build • Improve • Repeat
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-</p>
+### Learn · Build · Improve · Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9A7,100:0F2027"/>
+
+</div>
