@@ -5,7 +5,15 @@
 <h1 align="center">Harshali Abhay Kulkarni</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Web+Applications" />
+</p>
+
+<p align="center">
 Python Developer • Django Developer • Backend Engineer • MCA Student
+</p>
+
+<p align="center">
+Passionate about building scalable, secure, and efficient web applications using Python and Django.
 </p>
 
 <p align="center">
@@ -26,20 +34,29 @@ Python Developer • Django Developer • Backend Engineer • MCA Student
 
 ---
 
-## About Me
+## Developer Profile
 
 ```python
 class Developer:
     name = "Harshali Abhay Kulkarni"
     role = "Python & Django Developer"
-    education = "MCA - Master of Computer Applications"
+    education = "Master of Computer Applications (MCA)"
     institute = "Sinhgad Institute of Management, Pune"
     cgpa = 8.76
     location = "Pune, Maharashtra, India"
+
+    skills = [
+        "Python",
+        "Django",
+        "REST APIs",
+        "MySQL",
+        "Backend Development"
+    ]
+
     goal = "Seeking Entry-Level Backend Developer Opportunities"
 ```
 
-I am a passionate **backend developer** specializing in **Python and Django**, focused on building scalable, secure, and efficient web applications. I enjoy solving real-world problems and continuously improving my backend development skills through hands-on projects.
+I am a passionate backend developer specializing in Python and Django, focused on building scalable, secure, and efficient web applications. I enjoy solving real-world problems and continuously improving my development skills through hands-on projects and practical learning.
 
 ---
 
@@ -49,90 +66,125 @@ I am a passionate **backend developer** specializing in **Python and Django**, f
 <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,html,css,js,bootstrap,git,github,vscode" />
 </p>
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshali-14&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshali-14&layout=compact&hide_border=true" />
-</p>
+| Category | Technologies |
+|-----------|-------------|
+| Languages | Python, JavaScript, SQL |
+| Frameworks | Django, Django REST Framework |
+| Databases | MySQL, SQLite |
+| Frontend | HTML, CSS, Bootstrap |
+| Tools | Git, GitHub, VS Code |
+| Deployment | Render |
 
 ---
 
 ## Featured Projects
 
-### ResolveX – Complaint Management System
-
-* Django-based complaint management system
-* Role-based authentication (Admin & User)
-* Complaint lifecycle management (Create, Update, Delete, Track)
-* Real-time status tracking system
-* Secure and responsive UI design
-* Deployed on cloud hosting platform
-
-**Live Demo:** https://resolvex-x1ka.onrender.com/
-
----
-
-### PrepEdge – Interview Preparation Platform
-
-* MCQ-based learning and assessment system
-* Performance tracking dashboard
-* Razorpay payment gateway integration
-* Progress analytics system
-* Responsive UI for students
-
----
-
 ### Readio – Online Book Store
 
-* Full-stack e-commerce bookstore platform
-* Django REST Framework APIs
-* Cart, checkout, and order management system
-* User authentication and role-based access
-* Admin dashboard for inventory control
+A full-stack e-commerce bookstore platform built using Django and Django REST Framework.
+
+**Key Features**
+
+- User Authentication and Authorization
+- Shopping Cart and Checkout System
+- Order Management
+- REST API Development
+- Inventory Management Dashboard
+- Database-Driven Architecture
+
+**Tech Stack:** Python, Django, Django REST Framework, SQLite, HTML, CSS, JavaScript
+
+---
+
+### ResolveX – Complaint Management System
+
+A web-based complaint management platform designed to streamline complaint registration and tracking.
+
+**Key Features**
+
+- Role-Based Authentication (Admin & User)
+- Complaint Registration and Tracking
+- Complaint Lifecycle Management
+- Administrative Dashboard
+- Responsive User Interface
+- Cloud Deployment
+
+**Tech Stack:** Python, Django, SQLite, Bootstrap, HTML, CSS
+
+**Live Demo:**  
+https://resolvex-x1ka.onrender.com/
 
 ---
 
 ### Homedo – Household Services Platform
 
-* Service booking and management system
-* Multi-role dashboards (User, Provider, Admin)
-* Service request workflow management
-* Booking history and tracking system
-* Category-based service handling
+A service booking platform connecting customers with service providers.
+
+**Key Features**
+
+- Service Booking and Scheduling
+- Multi-Role Dashboards
+- Service Request Management
+- Booking History and Tracking
+- Category-Based Service Handling
+- Provider Management System
+
+**Tech Stack:** Python, Django, MySQL, HTML, CSS, Bootstrap
+
+---
+
+### PrepEdge – Interview Preparation Platform
+
+An assessment-based learning platform for students preparing for interviews and aptitude tests.
+
+**Key Features**
+
+- MCQ-Based Assessment System
+- Student Performance Tracking
+- Progress Analytics Dashboard
+- Razorpay Payment Integration
+- Responsive User Interface
+
+**Tech Stack:** Python, Django, SQLite, HTML, CSS, JavaScript
 
 ---
 
 ## Certifications
 
-| Certification            | Provider       | Year |
-| ------------------------ | -------------- | ---- |
-| Python Developer         | UV Technocrats | 2026 |
-| Python Selenium Workshop | SoftGrid Info  | 2024 |
+| Certification | Provider | Year |
+|--------------|----------|------|
+| Python Developer | UV Technocrats | 2026 |
+| Python Selenium Workshop | SoftGrid Info | 2024 |
 
 ---
 
-## Currently Learning
+## Current Focus
 
-* Django REST Framework (Advanced APIs)
-* System Design Fundamentals
-* Data Structures & Algorithms
-* Cloud Deployment (Render, AWS)
-* Microservices Architecture
+- Advanced Django REST Framework
+- System Design Fundamentals
+- Data Structures & Algorithms
+- AWS Cloud Services
+- Backend Architecture
+- Database Optimization
 
 ---
 
 ## Professional Highlights
 
-* MCA Graduate (CGPA: 8.76)
-* 4+ Full Stack Django Projects
-* Strong Backend Development Skills
-* REST API Development Experience
-* Payment Gateway Integration (Razorpay)
-* Cloud Deployment Experience
-* Focused on Backend Engineering Career
+- MCA Graduate with CGPA 8.76
+- Developed 4+ Full-Stack Django Applications
+- Experience in REST API Development
+- Payment Gateway Integration (Razorpay)
+- Cloud Deployment Experience
+- Strong Understanding of Authentication & Authorization
+- Experience with MySQL and SQLite Databases
+- Passionate About Backend Engineering
+
+---
+
+## Career Objective
+
+Seeking opportunities in Python Development, Django Development, and Backend Engineering where I can contribute to real-world software projects while continuously expanding my technical expertise in scalable web application development.
 
 ---
 
@@ -155,7 +207,7 @@ I am a passionate **backend developer** specializing in **Python and Django**, f
 ---
 
 <p align="center">
-Building scalable backend systems with Python and Django.
+  Learn • Build • Improve • Repeat
 </p>
 
 <p align="center">
