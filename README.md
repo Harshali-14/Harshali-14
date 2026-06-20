@@ -162,8 +162,7 @@ MCQ-based assessment platform with progress analytics and Razorpay-integrated pr
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harshali-14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshali-14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7" width="48%"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshali-14&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
+
 </div>
 
 <br>
