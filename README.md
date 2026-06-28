@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=130&section=footer&text=Harshali%20Kulkarni&fontColor=ffffff&fontSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=130&section=footer&text=Harshali%20Kulkarni&fontColor=ffffff&fontSize=30" width="100%"/>
 
 </div>
 
@@ -34,6 +34,13 @@
 ##  &nbsp;About Me
 
 <br/>
+Python & Django Backend Developer pursuing MCA with hands-on experience in web development.
+Building scalable applications, REST APIs, and AI-powered solutions using modern technologies.
+Experienced with Django, DRF, MySQL, SQLite, Google Gemini AI, and deployment workflows.
+Focused on creating efficient, user-friendly, and production-ready software solutions.
+<br/>
+
+---
 
 ```python
 class HarshaliKulkarni:
@@ -237,6 +244,26 @@ class HarshaliKulkarni:
 <br/>
 
 ---
+
+<br/>
+
+## Achievements
+
+<br/>
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| Full Stack Project Development | Built multiple real-world web applications using Django, REST APIs, MySQL, and modern frontend technologies |
+| AI Integration | Developed AI-powered applications using Google Gemini API with dynamic content generation features |
+| Backend Development | Created secure backend systems with authentication, CRUD operations, role-based access control, and database management |
+| Deployment Experience | Deployed Django applications with production configurations using Render |
+| MCA Technical Growth | Pursuing MCA with practical experience in Python development, software engineering, and application design |
+| Project Portfolio | Developed projects including StoryVerse AI, RecipeHub, ResolveX, Readio, Homedo, and PrepEdge |
+| API and Payment Integration | Integrated REST APIs and Razorpay payment gateway in Django applications |
+
+</div>
 
 <br/>
 
