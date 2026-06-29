@@ -200,22 +200,19 @@ class HarshaliKulkarni:
 
 <br/>
 
-##  &nbsp;GitHub Stats
-
-<br/>
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshali-14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&text_color=4ecba5&ring_color=00C9A7&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshali-14&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C9A7&text_color=4ecba5&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshali-14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<br/><br/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshali-14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-<img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshali-14&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=4ecba5&dates=2a6e58&sideNums=4ecba5"/>
+<br><br>
+
+<img height="180" src="https://streak-stats.demolab.com?user=Harshali-14&theme=github-dark&hide_border=true" />
 
 </div>
-
-<br/>
 
 ---
 
