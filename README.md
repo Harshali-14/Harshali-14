@@ -9,10 +9,25 @@
 <br/>
 
 <!-- Social & Portfolio Links -->
-<a href="https://linkedin.com/in/harshali-kulkarni-54a822236"><img src="https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=05070f"/></a>&nbsp;
-<a href="mailto:harshaliak14@gmail.com"><img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Harshali-14"><img src="https://img.shields.io/badge/GitHub-05070f?style=for-the-badge&logo=github&logoColor=00d4ff"/></a>&nbsp;
-<a href="https://resolvex-x1ka.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=render&logoColor=05070f"/></a>
+<a href="https://harshali.pythonanywhere.com">
+<img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=05070f"/>
+</a>&nbsp;
+
+<a href="https://linkedin.com/in/harshali-kulkarni-54a822236">
+<img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+
+<a href="mailto:harshaliak14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-05070f?style=for-the-badge&logo=gmail&logoColor=00d4ff"/>
+</a>&nbsp;
+
+<a href="https://github.com/Harshali-14">
+<img src="https://img.shields.io/badge/GitHub-05070f?style=for-the-badge&logo=github&logoColor=00d4ff"/>
+</a>&nbsp;
+
+<a href="https://resolvex-x1ka.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=render&logoColor=05070f"/>
+</a>
 
 <br/><br/>
 
@@ -28,14 +43,33 @@
 
 ---
 
-## ⚡ &nbsp;About Me
+##  About Me
 
-Backend Developer specializing in **Python** and **Django**, focused on building robust RESTful APIs, scalable database architectures, and seamlessly integrating complex 3rd-party services (AI engines, Weather APIs, Payment Gateways).
+I am a **Python & Django Backend Developer** passionate about designing scalable web applications, REST APIs, and AI-powered solutions.
 
-- 🎓 **Education:** Pursuing **MCA** @ Sinhgad Institute of Management, Pune | **BCA** (CGPA: 8.76).
-- 🛠️ **Core Strengths:** Django ORM, REST Framework, MySQL/SQLite optimization, RBAC Authentication, and Production Deployments.
-- 🚀 **Looking For:** Full-Time, Internship, or Contract roles as a **Python / Django / Backend Developer**.
+I specialize in building:
+-  Production-ready Django applications
+-  RESTful APIs using Django REST Framework
+-  AI integrations using Google Gemini API
+-  Third-party API integrations (Weather, Payments, AI Services)
+-  Database-driven applications with optimized ORM architecture
 
+###  Engineering Focus
+
+- Backend Architecture & API Development
+- Authentication & Role-Based Access Control
+- Database Design & Optimization
+- Cloud Deployment & Production Setup
+- Clean, maintainable Django applications
+
+###  Currently Looking For
+
+Open to opportunities as:
+
+**Python Developer | Django Developer | Backend Developer | Full Stack Developer**
+
+📍 Pune, Maharashtra, India  
+🌐 Portfolio: https://harshali.pythonanywhere.com
 <br/>
 
 ```python
@@ -71,18 +105,33 @@ class HarshaliKulkarni:
 
 <br/>
 
-### ⚙️ &nbsp;Backend Engineering Matrix
+---
 
-- **API Architecture:** RESTful API Design, DRF Serializers, ViewSets, External API Integrations.
-- **Authentication & Security:** Session Auth, Token Authentication, Role-Based Access Control (RBAC).
-- **Database & Architecture:** Relational Schema Design, Django ORM, Multi-App Django Projects.
-- **Frontend & Deployment:** Bootstrap, AJAX (Live Search, Scaling, Ratings), Render Production Deployment.
 
+
+##  What I Build
+
+<div align="center">
+
+|  Focus |  What I Create |
+|---|---|
+|  Web Applications | Scalable Django-based platforms with clean architecture and user-focused experiences |
+|  API Systems | Secure REST APIs with authentication, CRUD workflows, and third-party integrations |
+|  AI-Powered Solutions | Intelligent applications using AI models, automation, and generative AI features |
+|  Data-Driven Platforms | Database-backed systems with optimized queries and efficient data management |
+|  Business Solutions | E-commerce, subscription platforms, payment workflows, and management systems |
+|  Production Deployments | Deploying and maintaining real-world applications on cloud platforms |
+
+</div>
+
+
+
+---
 <br/>
 
 ---
 
-## 🚀 &nbsp;Featured Projects
+##  &nbsp;Featured Projects
 
 <br/>
 
@@ -90,7 +139,7 @@ class HarshaliKulkarni:
 <tr>
 <td width="50%" valign="top">
 
-### 🌤️ WeatherFlow
+###  WeatherFlow
 > **Real-Time Weather & Environmental Dashboard**
 
 ![Django](https://img.shields.io/badge/Django-05070f?style=flat-square&logo=django&logoColor=7c3aed)
@@ -104,7 +153,7 @@ class HarshaliKulkarni:
 </td>
 <td width="50%" valign="top">
 
-### 🤖 StoryVerse AI
+###  StoryVerse AI
 > **AI-Powered Creative Story Engine**
 
 ![Django](https://img.shields.io/badge/Django-05070f?style=flat-square&logo=django&logoColor=7c3aed)
@@ -121,7 +170,7 @@ class HarshaliKulkarni:
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ ResolveX &nbsp; [![Live](https://img.shields.io/badge/▶%20Live-00d4ff?style=flat-square)](https://resolvex-x1ka.onrender.com/)
+###  ResolveX &nbsp; [![Live](https://img.shields.io/badge/▶%20Live-00d4ff?style=flat-square)](https://resolvex-x1ka.onrender.com/)
 > **Role-Based Grievance Management System**
 
 ![Django](https://img.shields.io/badge/Django-05070f?style=flat-square&logo=django&logoColor=7c3aed)
@@ -135,7 +184,7 @@ class HarshaliKulkarni:
 </td>
 <td width="50%" valign="top">
 
-### 🍲 RecipeHub
+###  RecipeHub
 > **Community Culinary & Recipe Platform**
 
 ![Django](https://img.shields.io/badge/Django-05070f?style=flat-square&logo=django&logoColor=7c3aed)
@@ -152,7 +201,7 @@ class HarshaliKulkarni:
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Readio API
+###  Readio API
 > **E-Commerce Online Bookstore REST API**
 
 ![Django](https://img.shields.io/badge/Django-05070f?style=flat-square&logo=django&logoColor=7c3aed)
@@ -166,7 +215,7 @@ class HarshaliKulkarni:
 </td>
 <td width="50%" valign="top">
 
-### 🎯 PrepEdge
+###  PrepEdge
 > **Interview Preparation & Assessment SaaS**
 
 ![Django](https://img.shields.io/badge/Django-05070f?style=flat-square&logo=django&logoColor=7c3aed)
@@ -183,7 +232,7 @@ class HarshaliKulkarni:
 <tr>
 <td width="100%" colspan="2" valign="top">
 
-### 🏠 Homedo
+###  Homedo
 > **Household Services Marketplace Platform**
 
 ![Django](https://img.shields.io/badge/Django-05070f?style=flat-square&logo=django&logoColor=7c3aed)
@@ -207,7 +256,7 @@ class HarshaliKulkarni:
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+##  &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -239,13 +288,17 @@ class HarshaliKulkarni:
 
 ---
 
-## 📫 &nbsp;Let's Connect
+##  &nbsp;Let's Connect
 
 <div align="center">
 
 **Actively seeking opportunities as a Python / Django Backend Developer.**
 
 <br/>
+<a href="https://harshali.pythonanywhere.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=05070f"/>
+</a>
+&nbsp;&nbsp;
 
 <a href="mailto:harshaliak14@gmail.com"><img src="https://img.shields.io/badge/Gmail-harshaliak14%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;&nbsp;
