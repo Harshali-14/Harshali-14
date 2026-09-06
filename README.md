@@ -51,31 +51,54 @@ class Harshali:
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,php"/>
+![Python](https://img.shields.io/badge/Python-05070f?style=for-the-badge&logo=python&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-05070f?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+![C](https://img.shields.io/badge/C-05070f?style=for-the-badge&logo=c&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-05070f?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
+![Java](https://img.shields.io/badge/Java-05070f?style=for-the-badge&logo=openjdk&logoColor=00d4ff)
+![PHP](https://img.shields.io/badge/PHP-05070f?style=for-the-badge&logo=php&logoColor=00d4ff)
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=django"/>
-
-`Django REST Framework` · `Django ORM` · `Token Authentication` · `Role-Based Access` · `ViewSets` · `Serializers` · `CRUD`
+![Django](https://img.shields.io/badge/Django-7c3aed?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-7c3aed?style=for-the-badge&logo=django&logoColor=white)
+![Django ORM](https://img.shields.io/badge/Django%20ORM-7c3aed?style=flat-square&logoColor=white)
+![Token Auth](https://img.shields.io/badge/Token%20Authentication-7c3aed?style=flat-square)
+![Role-Based Access](https://img.shields.io/badge/Role--Based%20Access-7c3aed?style=flat-square)
+![ViewSets](https://img.shields.io/badge/ViewSets-7c3aed?style=flat-square)
+![Serializers](https://img.shields.io/badge/Serializers-7c3aed?style=flat-square)
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-
-`AJAX` · `Responsive Design` · `Dynamic Web Applications`
+![HTML5](https://img.shields.io/badge/HTML5-05070f?style=for-the-badge&logo=html5&logoColor=00d4ff)
+![CSS3](https://img.shields.io/badge/CSS3-05070f?style=for-the-badge&logo=css3&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-05070f?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05070f?style=for-the-badge&logo=bootstrap&logoColor=00d4ff)
+![AJAX](https://img.shields.io/badge/AJAX-05070f?style=flat-square&logoColor=00d4ff)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-05070f?style=flat-square)
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql"/>
+![MySQL](https://img.shields.io/badge/MySQL-05070f?style=for-the-badge&logo=mysql&logoColor=00d4ff)
+![SQLite](https://img.shields.io/badge/SQLite-05070f?style=for-the-badge&logo=sqlite&logoColor=00d4ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05070f?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
 
 ### 🔌 APIs & Integrations
-`Django REST Framework` · `Google Gemini AI` · `Razorpay` · `OpenWeatherMap` · `External APIs`
+![REST APIs](https://img.shields.io/badge/REST%20APIs-00d4ff?style=flat-square&logoColor=05070f)
+![Google Gemini AI](https://img.shields.io/badge/Google%20Gemini%20AI-00d4ff?style=flat-square&logo=google&logoColor=05070f)
+![Razorpay](https://img.shields.io/badge/Razorpay-00d4ff?style=flat-square&logo=razorpay&logoColor=05070f)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-00d4ff?style=flat-square&logoColor=05070f)
 
 ### 🧠 AI & GenAI
-`Google Gemini AI` · `Generative AI` · `Prompt Engineering` · `AI API Integration`
+![Generative AI](https://img.shields.io/badge/Generative%20AI-7c3aed?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7c3aed?style=flat-square)
+![AI API Integration](https://img.shields.io/badge/AI%20API%20Integration-7c3aed?style=flat-square)
 
 ### 🛠️ Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,render,vercel"/>
-
-`PythonAnywhere`
+![Git](https://img.shields.io/badge/Git-05070f?style=for-the-badge&logo=git&logoColor=00d4ff)
+![GitHub](https://img.shields.io/badge/GitHub-05070f?style=for-the-badge&logo=github&logoColor=00d4ff)
+![VS Code](https://img.shields.io/badge/VS%20Code-05070f?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-05070f?style=for-the-badge&logo=docker&logoColor=00d4ff)
+![Render](https://img.shields.io/badge/Render-05070f?style=for-the-badge&logo=render&logoColor=00d4ff)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-05070f?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Vercel](https://img.shields.io/badge/Vercel-05070f?style=for-the-badge&logo=vercel&logoColor=00d4ff)
 
 </div>
 
@@ -257,6 +280,13 @@ Already explored through **Google Gemini** in **StoryVerse AI**. Now building a 
 
 ---
 
+## 🌱 Beyond Code
+
+When I'm away from development, I enjoy:
+
+🎨 **Sketching & Painting** · 💃 **Dancing** · 🌐 **Exploring Web Development** · 🤖 **Learning AI & Emerging Technologies**
+
+---
 
 ## 💼 Open to Opportunities
 
